@@ -1,17 +1,30 @@
-common_name,sci_name,method,chem,cen_hardness,hardness,cen_value,value,cen_normalized_value,normalzed_value,2001_smav,2016_smav,reference,other_info,hardness_meta,value_meta,normalized_value_meta
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,85.1,,128.1,,150,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,145,,172,,119.5,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,69.69,,251.1,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,73.8,,83.18,,112,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,125,,76.44,,61.43,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,69.69,,251.1,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,61.83,,222.7,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,84.31,,303.7,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,66.32,,238.9,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,69.69,,251.1,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,58.45,,210.6,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,43.84,,157.9,,,Clifford 2009,,,,
-Hydra,Hydra circumcincta,"S, M","Cadmiumreferencestandard",,27,,57.33,,206.5,,184.8,Clifford 2009,,,,
+common_name,sci_name,method,chem,cen_hardness,hardness,cen_value,value,cen_normalized_value,normalized_value,2001_smav,2016_smav,reference,other_info,hardness_meta,value_meta,normalized_value_meta
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,85.1,,128.1,,150,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,145,,172,,119.5,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,69.69,,251.1,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,73.8,,83.18,,112,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,125,,76.44,,61.43,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,69.69,,251.1,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,61.83,,222.7,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,84.31,,303.7,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,66.32,,238.9,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,69.69,,251.1,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,58.45,,210.6,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,43.84,,157.9,,,Clifford 2009,,,,
+Hydra,Hydra circumcincta,"S, M","Cadmiumreference
+standard",,27,,57.33,,206.5,,184.8,Clifford 2009,,,,
 Planarian,Dendrocoelum lacteum,"R,M",Cadmiumchloride,,87,,"23,220",,"26,607","28,454","26,607",Ham et al. 1995,,,,
 Oligochaete,Branchiura sowerbyi,"S, M",Cadmiumsulfate,,5.3,,240,,"4,255",,,Chapman et al. 1982,,,,
 Oligochaete,Limnodrilus hoffmeisteri,"S, M",Cadmiumsulfate,,5.3,,170,,"3,014",,,Chapman et al. 1982,,,,
@@ -33,10 +46,12 @@ Tubificid worm,Tubifex tubifex,"S, U",Cadmiumchloride,,45,,440,,961.3,,,Rathore 
 Tubificid worm,Tubifex tubifex,"S, U",Cadmiumchloride,,173,,"7,950",,"4,648",,,Rathore and Khangarot2003,,,,
 Tubificid worm,Tubifex tubifex,"S, U",Cadmiumchloride,,305,,"8,500",,"2,853",,,Rathore and Khangarot2003,,,,
 Tubificid worm,Tubifex tubifex,"S, U",Cadmiumchloride,,250,,"1,658",,676,,,Redeker and Blust 2004,,,,
-Snail,Aplexa hypnorum,"F, M",Cadmiumchloride,,44.8,,93,,204.1,210.3,204.1,"Holcombe et al. 1984;Phipps and Holcombe1985",,,,
+Snail,Aplexa hypnorum,"F, M",Cadmiumchloride,,44.8,,93,,204.1,210.3,204.1,"Holcombe et al. 1984;Phipps and Holcombe
+1985",,,,
 Snail,Gyraulus sp.,"R, M",Cadmiumchloride,,24,>,467.7,>,"1,891",,,Mebane et al. 2012,,,,
 Snail,Gyraulus sp.,"R, M",Cadmiumchloride,,21,>,75.04,>,345.7,,>808.4,Mebane et al. 2012,,,,
-Southern fatmucket,"Lampsilis stramineaclaibornensis","S, M",,,40,,38,,93.17,96.44,93.17,"Keller, Unpublished",,,,
+Southern fatmucket,"Lampsilis straminea
+claibornensis","S, M",,,40,,38,,93.17,96.44,93.17,"Keller, Unpublished",,,,
 Yellow sandshell,Lampsilis teres,"S, M",,,40,,11,,26.97,,,"Keller, Unpublished",,,,
 Mussel,Utterbackia imbecillis,"S, M",Cadmiumchloride,,90,,114.7,,127.1,,,"Keller, Unpublished",,,,
 Mussel,Utterbackia imbecillis,"S, M",Cadmiumchloride,,90,,111.8,,123.9,,,"Keller, Unpublished",,,,
@@ -62,20 +77,30 @@ Mayfly,Baetis tricaudatus,"R, M",Cadmiumchloride,,24,>,456.4,>,"1,845",,,Mebane 
 Mayfly,Baetis tricaudatus,"R, M",Cadmiumchloride,,21,,76.07,,350.4,,350.4,Mebane et al. 2012,,,,
 Mayfly,Ephemerella subvaria,"S, U",Cadmiumsulfate,,44,,"2,000",,"4,467","4,607","4,467",Warnick and Bell 1969,,,,
 Stonefly,Pteronarcella badia,"F, M",Cadmiumchloride,,,,"18,000",,,NA (e),NA (e),Clubb et al. 1975,,,,
-Little green stonefly,Sweltsa sp.,"R, M",Cadmiumchloride,,26,>,"5,386",>,"20,132",,">20,132",Mebane et al. 2012,,,"(>5,239 reported dissolved)",
-Caddisfly,Arctopsyche sp.,"R, M",Cadmiumchloride,,28,>,"470.8",>,"1,637",,">1,637",Mebane et al. 2012,,,(>458 reported dissolved),
-Westslope cutthroat trout,Oncorhynchus clarkii lewisi,"R, M",Cadmiumchloride,,32,,"1.542",,4.703,,,Mebane et al. 2012,,,(1.5 reported dissolved),(i)
-Westslope cutthroat trout,Oncorhynchus clarkii lewisi,"R, M",Cadmiumchloride,,31,,"1.234",,3.883,,,Mebane et al. 2012,,,(1.2 reported dissolved),(i)
+Little green stonefly,Sweltsa sp.,"R, M",Cadmiumchloride,,26,>,"5,386
+",>,"20,132",,">20,132",Mebane et al. 2012,,,"(>5,239 reported dissolved)",
+Caddisfly,Arctopsyche sp.,"R, M",Cadmiumchloride,,28,>,"470.8
+",>,"1,637",,">1,637",Mebane et al. 2012,,,(>458 reported dissolved),
+Westslope cutthroat trout,Oncorhynchus clarkii lewisi,"R, M",Cadmiumchloride,,32,,"1.542
+",,4.703,,,Mebane et al. 2012,,,(1.5 reported dissolved),(i)
+Westslope cutthroat trout,Oncorhynchus clarkii lewisi,"R, M",Cadmiumchloride,,31,,"1.234
+",,3.883,,,Mebane et al. 2012,,,(1.2 reported dissolved),(i)
 Rainbow trout,Oncorhynchus mykiss,"S, U",,,,,6,,,,,Kumada et al. 1973,,,,
 Rainbow trout,Oncorhynchus mykiss,"S, U",,,,,7,,,,,Kumada et al. 1973,,,,
 Rainbow trout,Oncorhynchus mykiss,"S, U",Cadmiumchloride,,,,6,,,,,Kumada et al. 1980,,,,
 Rainbow trout,Oncorhynchus mykiss,"S, M",Cadmiumchloride,,43.5,,2.3,,5.194,,,Spehar and Carlson1984a;b,,,,
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,21,,"0.8224",,3.789,,,Mebane et al. 2012,,,(0.8 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,7,,"0.4934",,6.663,,,Mebane et al. 2012,,,(0.48 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,13,,"1.018",,7.5,,,Mebane et al. 2012,,,(0.99 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,24,,"1.336",,5.401,,,Mebane et al. 2012,,,(1.3 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,32,,"0.9560",,2.916,,,Mebane et al. 2012,,,(0.93 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,29,,"0.8532",,2.866,,,Mebane et al. 2012,,,(0.83 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,21,,"0.8224
+",,3.789,,,Mebane et al. 2012,,,(0.8 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,7,,"0.4934
+",,6.663,,,Mebane et al. 2012,,,(0.48 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,13,,"1.018
+",,7.5,,,Mebane et al. 2012,,,(0.99 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,24,,"1.336
+",,5.401,,,Mebane et al. 2012,,,(1.3 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,32,,"0.9560
+",,2.916,,,Mebane et al. 2012,,,(0.93 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,29,,"0.8532
+",,2.866,,,Mebane et al. 2012,,,(0.83 reported dissolved),
 Brown trout,Salmo trutta,"S, M",Cadmiumchloride,,43.5,,1.4,,3.162,,,Spehar and Carlson1984a;b,,,,
 Goldfish,Carassius auratus,"S, U",Cadmiumchloride,,20,,"2,340",,"11,307",,,Pickering and Henderson1966,,,,
 Goldfish,Carassius auratus,"S, M",Cadmiumchloride,,20,,"2,130",,"10,293",,,McCarty et al. 1978,,,,
@@ -96,9 +121,12 @@ Bluegill,Lepomis macrochirus,"F, M",Cadmiumchloride,,207,,"21,100",,"10,349",,,E
 Bluegill,Lepomis macrochirus,"S, M",Cadmiumchloride,,18,,"2,300",,"12,322",,,Bishop and McIntosh 1981,,,,
 Bluegill,Lepomis macrochirus,"S, M",Cadmiumchloride,,18,,"2,300",,"12,322",,,Bishop and McIntosh 1981,,,,
 Mozambique tilapia,Oreochromis mossambica,"R, U",Cadmiumchloride,,28.4,,"6,000",,"20,570",,,Gaikwad 1989,,,,
-Shorthead sculpin,Cottus confusus,"R, M",Cadmiumchloride,,21,,"0.9560",,4.404,,4.404,Mebane et al. 2012,,,(0.93 reported dissolved),
+Shorthead sculpin,Cottus confusus,"R, M",Cadmiumchloride,,21,,"0.9560
+",,4.404,,4.404,Mebane et al. 2012,,,(0.93 reported dissolved),
 African clawed frog,Xenopus laevis,"R, U",Cadmiumchloride,,116,,"3,597",,"3,110",,,Sunderman et al. 1991,,,,
-Hydra,"Hydra circumcincta","S, M","Cadmiumreferencestandard",,27,,69.69,,251.1,,,Clifford 2009,"(formerly, Hydra attenuata)",,,
+Hydra,"
+Hydra circumcincta","S, M","Cadmiumreference
+standard",,27,,69.69,,251.1,,,Clifford 2009,"(formerly, Hydra attenuata)",,,
 Hydra ,Hydra oligactis,"S, M",,,210,,320,,154.8,,154.8,Karntanut and Pascoe 2002,(Monecious species),,,
 Green hydra ,Hydra viridissima,"S, U",Cadmiumchloride,,19.5,,3,,14.86,,,Holdway et al. 2001,(non-budding),(19-20),,
 Green hydra,Hydra viridissima,"S, M",,,210,,210,,101.6,,38.85,Karntanut and Pascoe 2002,(Monecious species),,,
@@ -112,12 +140,14 @@ Worm ,Nais elinguis,"R, M",Cadmiumchloride,,17.89,,27,,145.5,,145.5,Shuhaimi-Oth
 Oligochaete ,Branchiura sowerbyi,"S, U",Cadmiumchloride,,185,,"58,020",,"31,767","4,754","11,627",Ghosal and Kaviraj 2002,"(2.0 cm, 2.05mg)",,,
 Oligochaete ,Limnodrilus hoffmeisteri,"F, M",Cadmium,,152,,"2,400",,"1,593","1,568","1,593",Williams et al. 1985,(30-44 mm),,,
 Tubificid worm ,Tubifex tubifex,"S, M",Cadmiumchloride,,,,400,,NA ,"2,753","4,193",Maestre et al. 2009,(4-5 wk),,,
-Earthworm,"Varichaetadrilus pacificus","S, M",Cadmiumsulfate,,5.3,,380,,"6,738","7,527","6,738",Chapman et al. 1982,"(formerly, Varichaetapacifica)",,,
+Earthworm,"
+Varichaetadrilus pacificus","S, M",Cadmiumsulfate,,5.3,,380,,"6,738","7,527","6,738",Chapman et al. 1982,"(formerly, Varichaetapacifica)",,,
 Leech ,Nephelopsis obscura,"S, M",Cadmiumchloride,,,,832.6,,,,NA (e),Wicklum et al. 1997,(cocoon),,,
 Pond snail,Lymnaea stagnalis,"S, M",Cadmiumchloride,,250,,752,,306.6,,,Coeurdassier et al. 2004,"(juvenile, stage I, 4 wk)",,,
 Pond snail,Lymnaea stagnalis,"S, M",Cadmiumchloride,,250,,"1,515",,617.7,,,Coeurdassier et al. 2004,"(juvenile, stage II, 9 wk)",,,
 Pond snail ,Lymnaea stagnalis,"S, M",Cadmiumchloride,,250,,"1,585",,646.3,,,Coeurdassier et al. 2004,"(adult, 20 wk)",,,
-Pond snail ,Lymnaea stagnalis,"R, M",Cadmiumchloride,,135,,"367.5",,273.9,,427.9,Pais 2012,"(juvenile, 25 mm)",(130-140),(347 reported-dissolved),
+Pond snail ,Lymnaea stagnalis,"R, M",Cadmiumchloride,,135,,"367.5
+",,273.9,,427.9,Pais 2012,"(juvenile, 25 mm)",(130-140),(347 reported-dissolved),
 Snail ,Physa acuta,"R, U",Cadmiumchloride,,44,,963.6,,"2,152",,"2,152",Woodard 2005,"(adult, 3.3-15 mm)",,,
 Pouch snail ,Physa gyrina,"S, M",,,200,,"1,370",,695,,,Wier and Walter 1976,(adult),,,
 Pouch snail ,Physa gyrina,"S, M",,,200,,410,,208,202.6,208,Wier and Walter 1976,(juvenile),,,
@@ -229,30 +259,52 @@ Cladoceran,Daphnia pulex,"S, U",Cadmiumchloride,,240,,319,,135.4,,,Elnabarawy et
 Cladoceran ,Daphnia pulex,"S, U",Cadmiumchloride,,120,,80,,66.91,,,Hall et al. 1986,(<24 hr),,,
 Cladoceran ,Daphnia pulex,"S, M",Cadmiumchloride,,53.5,,70.1,,129.3,,,Stackhouse and Benson1988,(<24 hr),,,
 Cladoceran ,Daphnia pulex,"S, M",Cadmiumchloride,,40,,44.96,,110.2,,,Shaw et al. 2006,(≤ 24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,17,,16.86,,95.53,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,24,,23.61,,95.43,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,30,,46.09,,149.7,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,47,,24.73,,51.78,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,67.1,,71.94,,106.3,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,119,,116.9,,98.59,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,175,,155.1,,89.68,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,19,,26.98,,137.1,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,46.09,,140.6,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,66.9,,70.82,,104.9,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,112,,89.93,,80.47,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,158,,68.57,,43.81,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,46.09,,140.6,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,33.72,,102.9,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,42.72,,130.3,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,46.09,,140.6,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,52.83,,161.2,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,43.84,,133.7,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,48.34,,147.4,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,73.07,,222.9,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
-Cladoceran ,Daphnia pulex,"S, M","Cadmiumreferencestandard",,32,,52.83,,161.2,93.77,109.2,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,17,,16.86,,95.53,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,24,,23.61,,95.43,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,30,,46.09,,149.7,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,47,,24.73,,51.78,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,67.1,,71.94,,106.3,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,119,,116.9,,98.59,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,175,,155.1,,89.68,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,19,,26.98,,137.1,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,46.09,,140.6,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,66.9,,70.82,,104.9,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,112,,89.93,,80.47,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,158,,68.57,,43.81,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,46.09,,140.6,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,33.72,,102.9,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,42.72,,130.3,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,46.09,,140.6,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,52.83,,161.2,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,43.84,,133.7,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,48.34,,147.4,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,73.07,,222.9,,,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
+Cladoceran ,Daphnia pulex,"S, M","Cadmiumreference
+standard",,32,,52.83,,161.2,93.77,109.2,Clifford 2009; Clifford andMcGeer 2010,(<24 hr),,,
 Cladoceran ,Daphnia similis,"S, M",Cadmiumnitrate,,44,,57.89,,129.3,,129.3,Rodgher et al. 2010,(<24 hr),,,
 Copepod ,Diaptomus forbesi,"S, U",Cadmiumchloride,,185,,"5,700",,"3,121",,"3,121",Ghosal and Kaviraj 2002,(0.58 mm),,,
-Isopod,"Caecidotea bicrenata","F, M",Cadmiumchloride,,220,,"2,129",,983.8,955,983.8,Bosnak and Morgan 1981,"(formerly, Asellus bicrenata)",,,
+Isopod,"
+Caecidotea bicrenata","F, M",Cadmiumchloride,,220,,"2,129",,983.8,955,983.8,Bosnak and Morgan 1981,"(formerly, Asellus bicrenata)",,,
 Amphipod ,Crangonyx pseudogracilis,"R, U",Cadmiumchloride,,50,,"1,700",,"3,350","3,439","3,350",Martin and Holdich 1986,(4 mm),,,
 Amphipod,Hyalella azteca,"S, M",Cadmiumchloride,,34,,8,,23,,23,Nebeker et al. 1986b,(large juvenile & young adult),,,
 Prawn ,Macrobrachium rosenbergii,"R, U",Cadmiumchloride,,,,36.12,,,,eNA,Sowdeswari et al. 2012,(post larva),,,
@@ -269,7 +321,8 @@ Red swamp crayfish,Procambarus clarkii,"R, M",Cadmiumchloride,,52.9,,"2,660",,"4
 Red swamp crayfish,Procambarus clarkii,"R, M",Cadmiumchloride,,42.1,,624,,"1,455","3,536","1,455",Wigginton 2005;Wigginton and Birge 2007,"(3rd to 5th instar, 0.02 g)",,,
 Mayfly,Drunella grandis grandis,"F, M",Cadmiumchloride,,,,"28,000",,,NA (e),NA (e),Clubb et al. 1975,"(formerly,Ephemerella grandis grandis)",,,
 Mayfly ,Hexagenia rigida,"S, M",Cadmium,,79.1,,"6,200",,"7,798",,"7,798",Leonhard et al. 1980,"(nymph, 24 mm)",,,
-Mayfly ,Rhithrogena hageni,"F, M",Cadmiumsulfate,,48,,"10,794",,"22,138",,"22,138","Brinkman and Vieira 2007;Brinkman and Johnston2008",(nymph),,,
+Mayfly ,Rhithrogena hageni,"F, M",Cadmiumsulfate,,48,,"10,794",,"22,138",,"22,138","Brinkman and Vieira 2007;Brinkman and Johnston
+2008",(nymph),,,
 Midge ,Culicoides furens,"S, U",,,,,300,,,,,Vedamanikam and Shazilli2008a,(larva),,,
 Midge ,Culicoides furens,"S, M",Cadmiumchloride,,,,245.2,,,,,Vedamanikam and Shazilli2008b,(larva),(35oC),,
 Midge ,Culicoides furens,"S, M",Cadmiumchloride,,,,245.2,,,,,Vedamanikam and Shazilli2008b,(larva),(25oC),,
@@ -286,8 +339,11 @@ Midge ,Chironomus riparius,"S, M",Cadmiumnitrate,,10,,"331,000",,"3,152,504",,,G
 Midge ,Chironomus riparius,"S, M",Cadmiumnitrate,,140,,"1,106,000",,"795,496","195,967",">152,301",Gillis and Wood 2008,(3rd-4th instar larva),,,
 Bryozoa ,Lophopodella carteri,"S, U",,,205,,150,,74.28,72.29,74.28,Pardue and Wood 1980,(ancenstrulae 2-3 d),,,
 Bryozoa ,Plumatella emarginata,"S, U",,,205,,"1,090",,539.7,525.3,539.7,Pardue and Wood 1980,(ancenstrulae 2-3 d),,,
-Westslope cutthroat trout,Oncorhynchus clarkii lewisi,"R, M",Cadmiumchloride,,21,,"0.9663",,4.452,,,Mebane et al. 2012,(young of the year),,(0.94 reported dissolved),
-Rio Grande cutthroat trout,"Oncorhynchus clarkiivirginalis","F, M",Cadmiumsulfate,,44.9,,"2.467",,5.401,,5.401,Brinkman 2012,"(fry, 0.26 g)",,(2.40 reported dissolved),
+Westslope cutthroat trout,Oncorhynchus clarkii lewisi,"R, M",Cadmiumchloride,,21,,"0.9663
+",,4.452,,,Mebane et al. 2012,(young of the year),,(0.94 reported dissolved),
+Rio Grande cutthroat trout,"Oncorhynchus clarkii
+virginalis","F, M",Cadmiumsulfate,,44.9,,"2.467
+",,5.401,,5.401,Brinkman 2012,"(fry, 0.26 g)",,(2.40 reported dissolved),
 Coho salmon ,Oncorhynchus kisutch,"F, M",Cadmiumchloride,,22,,17.5,,77.03,,,Chapman 1975,(adult),,,
 Coho salmon ,Oncorhynchus kisutch,"F, M",Cadmiumchloride,,22,,2.7,,11.88,,,Chapman 1975,(parr),,,
 Coho salmon ,Oncorhynchus kisutch,"S, U",Cadmium,,90,,10.4,,11.53,,,Lorz et al. 1978,(yearling),,,
@@ -328,22 +384,37 @@ Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumnitrate,,120,,19,,15.89,,,Niyogi
 Rainbow trout,Oncorhynchus mykiss,"F, M",,,103,,3.7,,3.594,,,Besser et al. 2007,"(swim-up fry, 0.131 g)",,,
 Rainbow trout,Oncorhynchus mykiss,"F, M",,,103,,5.2,,5.051,,,Besser et al. 2007,"(juvenile, 0.496 g)",,,
 Rainbow trout,Oncorhynchus mykiss,"S, M",Cadmiumchloride,,,,0.753,,,,,Birceanu et al. 2008,"(juvenile, 1-3 g)",,,
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,19.7,,"0.864",,4.237,,,Mebane et al. 2007; 2008,"(swim-up fry, 0.2-0.4 g)",,(0.84 reported-dissolved),
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,29.4,,"0.915",,3.032,,,Mebane et al. 2007; 2008,"(swim-up fry, 0.2-0.4 g)",,(0.89 reported-dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,19.7,,"0.864
+",,4.237,,,Mebane et al. 2007; 2008,"(swim-up fry, 0.2-0.4 g)",,(0.84 reported-dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,29.4,,"0.915
+",,3.032,,,Mebane et al. 2007; 2008,"(swim-up fry, 0.2-0.4 g)",,(0.89 reported-dissolved),
 Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumnitrate,,44,,2.75,,6.142,,,Niyogi et al. 2008,"(juvenile, 6-8 g)",(40-48),,
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumnitrate,,"44",,3.21,,7.169,,,Niyogi et al. 2008,"(juvenile, 6-8 g)",(40-48),,
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumnitrate,,"44",,3.08,,6.879,,,Niyogi et al. 2008,"(juvenile, 6-8 g)",(40-48),,
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumnitrate,,"44",,1.02,,2.278,,,Niyogi et al. 2008,"(juvenile, 6-8 g)",(40-48),,
-Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,21,,"0.3495",,1.61,,,Mebane et al. 2012,(young of the year),,(0.34 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,103,>,"52.31",>,50.81,,,Calfee et al. 2014,"(1 dph, 0.08 g, 14.3 cm)",,(>49.40 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,104,,"3.061",,2.945,,,Calfee et al. 2014,"(18 dph, 0.1 g, 24.33 cm)",,(2.89 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,107,,"5.115",,4.786,,,Calfee et al. 2014,"(32 dph, 0.12 g, 26.67 cm)",,(4.83 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,107,,"2.933",,2.745,,,Calfee et al. 2014,"(46 dph, 0.22 g, 32.1 cm)",,(2.77 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,104,,"3.929",,3.78,,,Calfee et al. 2014,"(60 dph, 0.33 g, 37.1 cm)",,(3.71 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,96,,"4.808",,5.003,,,Calfee et al. 2014,"(74 dph, 0.42 g, 40.3 cm)",,(4.54 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,103,,"3.135",,3.045,,,Calfee et al. 2014,"(95 dph, 0.7 g, 45.43 cm)",,(2.96 reported dissolved),
-Rainbow trout ,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,100,>,"12.71",>,12.71,,,Wang et al. 2014a,(1 dph),,(>12 reported dissolved),
-Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,100,,"5.401",,5.4,4.265,3.727,Wang et al. 2014a,"(juvenile, 26 dph)",,(5.1 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumnitrate,,"44
+",,3.21,,7.169,,,Niyogi et al. 2008,"(juvenile, 6-8 g)",(40-48),,
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumnitrate,,"44
+",,3.08,,6.879,,,Niyogi et al. 2008,"(juvenile, 6-8 g)",(40-48),,
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumnitrate,,"44
+",,1.02,,2.278,,,Niyogi et al. 2008,"(juvenile, 6-8 g)",(40-48),,
+Rainbow trout,Oncorhynchus mykiss,"R, M",Cadmiumchloride,,21,,"0.3495
+",,1.61,,,Mebane et al. 2012,(young of the year),,(0.34 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,103,>,"52.31
+",>,50.81,,,Calfee et al. 2014,"(1 dph, 0.08 g, 14.3 cm)",,(>49.40 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,104,,"3.061
+",,2.945,,,Calfee et al. 2014,"(18 dph, 0.1 g, 24.33 cm)",,(2.89 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,107,,"5.115
+",,4.786,,,Calfee et al. 2014,"(32 dph, 0.12 g, 26.67 cm)",,(4.83 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,107,,"2.933
+",,2.745,,,Calfee et al. 2014,"(46 dph, 0.22 g, 32.1 cm)",,(2.77 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,104,,"3.929
+",,3.78,,,Calfee et al. 2014,"(60 dph, 0.33 g, 37.1 cm)",,(3.71 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,96,,"4.808
+",,5.003,,,Calfee et al. 2014,"(74 dph, 0.42 g, 40.3 cm)",,(4.54 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,103,,"3.135
+",,3.045,,,Calfee et al. 2014,"(95 dph, 0.7 g, 45.43 cm)",,(2.96 reported dissolved),
+Rainbow trout ,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,100,>,"12.71
+",>,12.71,,,Wang et al. 2014a,(1 dph),,(>12 reported dissolved),
+Rainbow trout,Oncorhynchus mykiss,"F, M",Cadmiumchloride,,100,,"5.401
+",,5.4,4.265,3.727,Wang et al. 2014a,"(juvenile, 26 dph)",,(5.1 reported dissolved),
 Chinook salmon ,Oncorhynchus tshawytscha,"F, U",,,,,1.9,,,,,Chapman 1973,(swim-up),,,
 Chinook salmon ,Oncorhynchus tshawytscha,"F, M",Cadmiumchloride,,25,,1.41,,5.477,,,Chapman 1978; 1982,(juvenile),,,
 Chinook salmon,Oncorhynchus tshawytscha,"F, M",Cadmiumchloride,,23,>,26,>,109.6,,,Chapman 1978,"(alevin, 0.05 g)",,,
@@ -383,9 +454,12 @@ Common carp,Cyprinus carpio,"S, U",Cadmiumchloride,,312.5,,"116,450",,"38,164",,
 Common carp,Cyprinus carpio,"S, U",Cadmiumchloride,>,375,,"310,480",,"85,122","8,573","30,781",Datta et al. 2003,"(fry, 3.5 cm, 0.65 g)",,,
 Red shiner ,Cyprinella lutrensis,"S, M",Cadmiumsulfate,,85.5,,"6,620",,"7,716","7,762","7,716",Carrier 1987; Carrier andBeitinger 1988a,"(adult, 0.80-2.0 g)",,,
 Zebrafish ,Danio rerio,"R, U",Cadmiumchloride,,177.5,,"2,113",,"1,205",,,Blechinger et al. 2002,"(3-7 d, larva)",,,
-Zebrafish ,Danio rerio,"R, M",Cadmiumnitrate,,141,,"4,047",,"2,891",,,Alsop and Wood 2011,(adult),(28oC),"(3,822 reported dissolved)",
-Zebrafish ,Danio rerio,"R, M",Cadmiumnitrate,,141,,"1,832",,"1,309",,,Alsop and Wood 2011,(larva),(26.6oC),"(1,730 reported dissolved)",
-Zebrafish ,Danio rerio,"R, M",Cadmiumnitrate,,7.8,,"125.2",,"1,521",,,Alsop and Wood 2011,(larva),(26.6oC),(121.8 reported dissolved),
+Zebrafish ,Danio rerio,"R, M",Cadmiumnitrate,,141,,"4,047
+",,"2,891",,,Alsop and Wood 2011,(adult),(28oC),"(3,822 reported dissolved)",
+Zebrafish ,Danio rerio,"R, M",Cadmiumnitrate,,141,,"1,832
+",,"1,309",,,Alsop and Wood 2011,(larva),(26.6oC),"(1,730 reported dissolved)",
+Zebrafish ,Danio rerio,"R, M",Cadmiumnitrate,,7.8,,"125.2
+",,"1,521",,,Alsop and Wood 2011,(larva),(26.6oC),(121.8 reported dissolved),
 Zebrafish ,Danio rerio,"S, U",Cadmiumchloride,,250,,"13,657",,"5,569",,,Vergauwen 2012;Vergauwen et al. 2013,(adult),(18oC),,
 Zebrafish ,Danio rerio,"S, U",Cadmiumchloride,,250,,"11,510",,"4,693",,,Vergauwen 2012;Vergauwen et al. 2013,(adult),(26oC),,
 Zebrafish ,Danio rerio,"S, U",Cadmiumchloride,,250,,"14,005",,"5,710",,,Vergauwen 2012;Vergauwen et al. 2013,(adult),(30oC),,
@@ -443,18 +517,26 @@ Bluegill ,Lepomis macrochirus,"F, M",Cadmiumchloride,,44.4,,"6,470",,"14,322","1
 Yellow perch,Perca flavescens,"F, M",Cadmiumnitrate,,120,,"8,140",,"6,808",,"6,808",Niyogi et al. 2004b,"(juvenile, 8-12 g)",,,
 Nile tilapia,Oreochromis niloticus,"S, M",Cadmiumchloride,,36.17,,"24,660",,"66,720",,"66,720",Garcia-Santos et al. 2006,"(adult, 13.1 cm, 77.2 g)",,,
 Mozambique tilapia ,Oreochromis mossambica,"R, U",Cadmiumsulfate,,17,,"1,000",,"5,666","21,569","10,795",James and Sampath 1999,(1.52 g),,,
-White sturgeon ,Acipenser transmontanus,"F, M",Cadmiumchloride,,103,>,"49.98",>,48.55,,,Calfee et al. 2014,"(2 dph, 0.03g)",,(>47.2 reported dissolved),
-White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,106,>,"375.9",>,355,,,Calfee et al. 2014,"(30 dph, 0.17g, 30.6 cm)",,(>355 reported dissolved),
-White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,108,<,"36.43",<,33.78,,,Calfee et al. 2014,"(61 dph, 1.15 g, 62.5 cm)",,(<34.4 reported dissolved),
-White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,105,>,"158.3",>,150.9,,,Calfee et al. 2014,"(72 dph, 1.89 g, 75.6 cm)",,(>149.5 reported dissolved),
-White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,104,>,"289.6",>,278.6,,,Calfee et al. 2014,"(89 dph, 3.73 g, 97.57 cm)",,(>273.5 reported dissolved),
-White sturgeon ,Acipenser transmontanus,"F, M",Cadmiumchloride,,100,>,"11.65",>,11.65,,,Wang et al. 2014a,(2 dph),,(>11 reported dissolved),
-White sturgeon ,Acipenser transmontanus,"F, M",Cadmiumchloride,,100,>,"11.65",>,11.65,,<33.78,Wang et al. 2014a,"(larva, 27dph)",,(>11 reported dissolved),
+White sturgeon ,Acipenser transmontanus,"F, M",Cadmiumchloride,,103,>,"49.98
+",>,48.55,,,Calfee et al. 2014,"(2 dph, 0.03g)",,(>47.2 reported dissolved),
+White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,106,>,"375.9
+",>,355,,,Calfee et al. 2014,"(30 dph, 0.17g, 30.6 cm)",,(>355 reported dissolved),
+White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,108,<,"36.43
+",<,33.78,,,Calfee et al. 2014,"(61 dph, 1.15 g, 62.5 cm)",,(<34.4 reported dissolved),
+White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,105,>,"158.3
+",>,150.9,,,Calfee et al. 2014,"(72 dph, 1.89 g, 75.6 cm)",,(>149.5 reported dissolved),
+White sturgeon,Acipenser transmontanus,"F, M",Cadmiumchloride,,104,>,"289.6
+",>,278.6,,,Calfee et al. 2014,"(89 dph, 3.73 g, 97.57 cm)",,(>273.5 reported dissolved),
+White sturgeon ,Acipenser transmontanus,"F, M",Cadmiumchloride,,100,>,"11.65
+",>,11.65,,,Wang et al. 2014a,(2 dph),,(>11 reported dissolved),
+White sturgeon ,Acipenser transmontanus,"F, M",Cadmiumchloride,,100,>,"11.65
+",>,11.65,,<33.78,Wang et al. 2014a,"(larva, 27dph)",,(>11 reported dissolved),
 Mottled sculpin,Cottus bairdi,"F, M",Cadmiumchloride,,103,,7.9,,7.673,,,Besser et al. 2006; 2007,"(swim-up fry, 0.033 g)",,,
 Mottled sculpin,Cottus bairdi,"F, M",Cadmiumchloride,,103,,17,,16.51,,,Besser et al. 2006; 2007,"(juvenile, 0.104 g)",,,
 Mottled sculpin,Cottus bairdi,"F, M",Cadmiumchloride,,103,,23,,22.34,,,Besser et al. 2006; 2007,"(juvenile, 0.260 g)",,,
 Mottled sculpin,Cottus bairdi,"F, M",Cadmiumchloride,,103,>,67,>,65.08,,,Besser et al. 2006; 2007,"(yearling, 2.3 g)",,,
 Mottled sculpin,Cottus bairdi,"F, M",Cadmiumchloride,,103,,2.9,,2.817,,,Besser et al. 2006; 2007,(newly hatched),,,
-Mottled sculpin ,Cottus bairdi,"F, M",Cadmiumsulfate,,48.7,,"1.973",,3.99,,4.418,Brinkman and Vieira 2007,(fry),,(1.92 reported-dissolved),
+Mottled sculpin ,Cottus bairdi,"F, M",Cadmiumsulfate,,48.7,,"1.973
+",,3.99,,4.418,Brinkman and Vieira 2007,(fry),,(1.92 reported-dissolved),
 African clawed frog,Xenopus laevis,"R, U",Cadmiumnitrate,,100,,"1,600",,"1,600","3,093","2,231",Gungordu et al. 2010,(blastula stage 8-11),,,
 Northwestern salamander,Ambystoma gracile,"F, M",Cadmiumchloride,,45,,468.4,,"1,023","1,055","1,023",Nebeker et al. 1995,(larva),,,
